@@ -1,4 +1,4 @@
-# Analiza podatkov o najboljsih powerlifterjih
+# Analiza podatkov o najboljših powerlifterjih
 
 ## Projektna naloga pri predmetu UVP
 
